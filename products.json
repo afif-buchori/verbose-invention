@@ -1,56 +1,65 @@
 [
-    {
-        "id": 1,
-        "type": "meal",
-        "image": "/uploads/original.webp",
-        "category": "dimsum",
-        "name": "Original",
-        "price": 3000,
-        "stok": 10
-    },
-    {
-        "id": 2,
-        "type": "meal",
-        "image": "/uploads/jamur.webp",
-        "category": "dimsum",
-        "name": "Jamur",
-        "price": 3000,
-        "stok": 10
-    },
-    {
-        "id": 3,
-        "type": "meal",
-        "image": "/uploads/mercon.webp",
-        "category": "dimsum",
-        "name": "Mercon",
-        "price": 3000,
-        "stok": 10
-    },
-    {
-        "id": 4,
-        "type": "meal",
-        "image": "/uploads/mentai.webp",
-        "category": "dimsum-mentai",
-        "name": "Mentai",
-        "price": 4000,
-        "stok": 10
-    },
-    {
-        "id": 5,
-        "type": "addon",
-        "image": "/uploads/logo.png",
-        "category": "addon",
-        "name": "Keju",
-        "price": 500,
-        "stok": 100
-    },
-    {
-        "id": 6,
-        "type": "addon",
-        "image": "/uploads/logo.png",
-        "category": "addon",
-        "name": "Saos Sambal Bangkok",
-        "price": 1000,
-        "stok": 100
-    }
+  {
+    "id": 1,
+    "type": "meal",
+    "image": "/uploads/original.webp",
+    "category": "dimsum",
+    "name": "Original",
+    "price": 3000,
+    "stok": 10
+  },
+  {
+    "id": 2,
+    "type": "meal",
+    "image": "/uploads/jamur.webp",
+    "category": "dimsum",
+    "name": "Jamur",
+    "price": 3000,
+    "stok": 10
+  },
+  {
+    "id": 3,
+    "type": "meal",
+    "image": "/uploads/mercon.webp",
+    "category": "dimsum",
+    "name": "Mercon",
+    "price": 3000,
+    "stok": 10
+  },
+  {
+    "id": 4,
+    "type": "meal",
+    "image": "/uploads/mentai.webp",
+    "category": "dimsum-mentai",
+    "name": "Mentai",
+    "price": 4000,
+    "stok": 10
+  },
+  {
+    "id": 5,
+    "type": "addon",
+    "image": "/uploads/logo.png",
+    "category": "addon",
+    "name": "Keju",
+    "price": 500,
+    "stok": 100
+  },
+  {
+    "id": 6,
+    "type": "addon",
+    "image": "/uploads/logo.png",
+    "category": "addon",
+    "name": "Saos Sambal Bangkok",
+    "price": 1000,
+    "stok": 100
+  },
+  {
+    "id": 7,
+    "image": "",
+    "type": "Meal",
+    "name": "testing",
+    "price": 10000,
+    "category": "",
+    "stock": 0
+  }
 ]

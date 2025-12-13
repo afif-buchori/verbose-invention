@@ -1,11 +1,4 @@
 {
-  "lastId": 1,
-  "products": [
-    {
-      "id": 1,
-      "name": "Mentai",
-      "price": 4500,
-      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765623854/products/brul4hsn3mbek0sm3s8v.webp"
-    }
-  ]
+  "lastId": 0,
+  "products": []
 }

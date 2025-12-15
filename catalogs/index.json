@@ -1,4 +1,14 @@
 {
-  "lastId": 0,
-  "menu": []
+  "lastId": "29dd1ae7-1f56-43de-a3a2-4985e3f2d0f1",
+  "menu": [
+    {
+      "id": "29dd1ae7-1f56-43de-a3a2-4985e3f2d0f1",
+      "slug": "testing-menu-dua",
+      "active": true,
+      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765796899/catalogs/zazccm6oikalxuiqts45.png",
+      "name": "testing menu dua",
+      "description": "tes deskripsi",
+      "price": 80000
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastId": 3,
+  "lastId": 4,
   "products": [
     {
       "id": 1,
@@ -21,6 +21,13 @@
       "type": "Addon",
       "name": "Sambel goreng",
       "price": 1000
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765794786/products/kvhltzodcbfqtrzmn9lh.webp",
+      "type": "Meal",
+      "name": "campur",
+      "price": 40000
     }
   ]
 }

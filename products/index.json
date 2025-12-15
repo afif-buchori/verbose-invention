@@ -1,5 +1,5 @@
 {
-  "lastId": 2,
+  "lastId": 3,
   "products": [
     {
       "id": 1,
@@ -14,6 +14,13 @@
       "type": "Meal",
       "name": "testing menu satu",
       "price": 10000
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765794590/products/gobblobrdefgoysdr1ui.png",
+      "type": "Addon",
+      "name": "Sambel goreng",
+      "price": 1000
     }
   ]
 }

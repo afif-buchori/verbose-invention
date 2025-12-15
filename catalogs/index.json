@@ -8,7 +8,14 @@
       "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765796899/catalogs/zazccm6oikalxuiqts45.png",
       "name": "testing menu dua",
       "description": "tes deskripsi",
-      "price": 90000
+      "price": 90000,
+      "listProducts": [
+        "1",
+        "92a1de43-fedc-40db-8f75-64892016f194"
+      ],
+      "listAddons": [
+        "3"
+      ]
     }
   ]
 }

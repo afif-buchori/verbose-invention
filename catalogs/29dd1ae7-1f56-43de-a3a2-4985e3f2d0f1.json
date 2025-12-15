@@ -1,5 +1,5 @@
 {
-  "active": false,
+  "active": true,
   "id": "29dd1ae7-1f56-43de-a3a2-4985e3f2d0f1",
   "slug": "testing-menu-dua",
   "name": "testing menu dua",
@@ -15,5 +15,5 @@
   "slotQty": 2,
   "price": 90000,
   "createdAt": "2025-12-15T11:08:21.148Z",
-  "updatedAt": "2025-12-15T11:48:31.089Z"
+  "updatedAt": "2025-12-15T12:00:52.799Z"
 }

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "id": "f3a604ad-b655-4d64-a354-3659476056d6",
+  "slug": "bakul",
+  "name": "Bakul",
+  "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765883285/catalogs/vose4fs0ayu5vvx9yg29.png",
+  "description": "Info bakul kerupuk",
+  "listProducts": [
+    "92a1de43-fedc-40db-8f75-64892016f194",
+    "2"
+  ],
+  "listAddons": [
+    "3",
+    "92a1de43-fedc-40db-8f75-64892016f194",
+    "2",
+    "4",
+    "1"
+  ],
+  "slotQty": 4,
+  "price": 22000,
+  "createdAt": "2025-12-16T11:08:11.242Z"
+}

@@ -1,5 +1,5 @@
 {
-  "totalProducts": 4,
+  "totalProducts": 5,
   "products": [
     {
       "id": "6cc9f1f6-0579-4074-b935-391e1968a272",
@@ -27,6 +27,13 @@
       "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765974134/products/dfklu7hh1uc1vufyxq6g.webp",
       "type": "Meal",
       "name": "Mercon",
+      "price": 3500
+    },
+    {
+      "id": "d34d596a-1301-4a22-946b-345c202892b3",
+      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765974160/products/kmdz2dtouh3ih1ajnqrz.webp",
+      "type": "Meal",
+      "name": "Jamur",
       "price": 3500
     }
   ]

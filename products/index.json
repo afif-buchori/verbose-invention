@@ -1,5 +1,5 @@
 {
-  "totalProducts": 2,
+  "totalProducts": 3,
   "products": [
     {
       "id": "6cc9f1f6-0579-4074-b935-391e1968a272",
@@ -14,6 +14,13 @@
       "type": "Sauce",
       "name": "Saus Chili Oil",
       "price": 2000
+    },
+    {
+      "id": "ed078830-c018-40fb-850f-adffe4b7c29b",
+      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765974104/products/yxhk8ob4hiehnplts5sm.webp",
+      "type": "Meal",
+      "name": "Original",
+      "price": 3500
     }
   ]
 }

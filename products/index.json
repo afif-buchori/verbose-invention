@@ -1,4 +1,12 @@
 {
-  "totalProducts": 0,
-  "products": []
+  "totalProducts": 1,
+  "products": [
+    {
+      "id": "6cc9f1f6-0579-4074-b935-391e1968a272",
+      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765973981/products/ag52he33owstxh29uhhx.jpg",
+      "type": "Sauce",
+      "name": "Saus Sambal Bangkok",
+      "price": 1000
+    }
+  ]
 }

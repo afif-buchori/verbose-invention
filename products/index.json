@@ -1,5 +1,5 @@
 {
-  "totalProducts": 1,
+  "totalProducts": 2,
   "products": [
     {
       "id": "6cc9f1f6-0579-4074-b935-391e1968a272",
@@ -7,6 +7,13 @@
       "type": "Sauce",
       "name": "Saus Sambal Bangkok",
       "price": 1000
+    },
+    {
+      "id": "2f064c6d-afa5-4c73-a01a-7d5149ffe0d7",
+      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765974046/products/g3icqhfmid5kzvxpczad.png",
+      "type": "Sauce",
+      "name": "Saus Chili Oil",
+      "price": 2000
     }
   ]
 }

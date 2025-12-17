@@ -1,5 +1,5 @@
 {
-  "totalProducts": 5,
+  "totalProducts": 6,
   "products": [
     {
       "id": "6cc9f1f6-0579-4074-b935-391e1968a272",
@@ -35,6 +35,13 @@
       "type": "Meal",
       "name": "Jamur",
       "price": 3500
+    },
+    {
+      "id": "e9cce592-0eb5-4ba2-a6b6-933d700f80fb",
+      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765974326/products/amielgibfwp9hhgmk14p.jpg",
+      "type": "Meal",
+      "name": "Mentai",
+      "price": 4500
     }
   ]
 }

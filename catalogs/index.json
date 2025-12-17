@@ -1,43 +1,4 @@
 {
-  "lastId": "f3a604ad-b655-4d64-a354-3659476056d6",
-  "menu": [
-    {
-      "id": "29dd1ae7-1f56-43de-a3a2-4985e3f2d0f1",
-      "slug": "testing-menu-dua",
-      "active": true,
-      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765796899/catalogs/zazccm6oikalxuiqts45.png",
-      "name": "testing menu dua",
-      "description": "tes deskripsi",
-      "price": 90000,
-      "listProducts": [
-        "1",
-        "92a1de43-fedc-40db-8f75-64892016f194"
-      ],
-      "listAddons": [
-        "3"
-      ],
-      "slotQty": 2
-    },
-    {
-      "id": "f3a604ad-b655-4d64-a354-3659476056d6",
-      "slug": "bakul",
-      "active": true,
-      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765883285/catalogs/vose4fs0ayu5vvx9yg29.png",
-      "name": "Bakul",
-      "description": "Info bakul kerupuk",
-      "slotQty": 4,
-      "listProducts": [
-        "92a1de43-fedc-40db-8f75-64892016f194",
-        "2"
-      ],
-      "listAddons": [
-        "3",
-        "92a1de43-fedc-40db-8f75-64892016f194",
-        "2",
-        "4",
-        "1"
-      ],
-      "price": 22000
-    }
-  ]
+  "totalMenu": 0,
+  "menu": []
 }

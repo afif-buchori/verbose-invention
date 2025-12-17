@@ -1,40 +1,4 @@
 {
-  "lastId": "92a1de43-fedc-40db-8f75-64892016f194",
-  "products": [
-    {
-      "id": 1,
-      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765680381/products/k59l1hjwtywpt9pmzkcz.webp",
-      "type": "Meal",
-      "name": "testing",
-      "price": 78000
-    },
-    {
-      "id": 2,
-      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765680613/products/s0w2sdw7lur2bxx7stxc.webp",
-      "type": "Meal",
-      "name": "testing menu satu",
-      "price": 10000
-    },
-    {
-      "id": 3,
-      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765794590/products/gobblobrdefgoysdr1ui.png",
-      "type": "Addon",
-      "name": "Sambel goreng",
-      "price": 1000
-    },
-    {
-      "id": 4,
-      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765794786/products/kvhltzodcbfqtrzmn9lh.webp",
-      "type": "Meal",
-      "name": "campur",
-      "price": 40000
-    },
-    {
-      "id": "92a1de43-fedc-40db-8f75-64892016f194",
-      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765796697/products/pmitbxy1csmiaxpkyebe.webp",
-      "type": "Meal",
-      "name": "Original product",
-      "price": 12000
-    }
-  ]
+  "totalProducts": 0,
+  "products": []
 }

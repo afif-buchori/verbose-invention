@@ -1,5 +1,5 @@
 {
-  "totalMenu": 3,
+  "totalMenu": 4,
   "menu": [
     {
       "id": "570b298c-d854-492a-9559-5f37b0f792f7",
@@ -54,6 +54,22 @@
         "2f064c6d-afa5-4c73-a01a-7d5149ffe0d7"
       ],
       "price": 17000
+    },
+    {
+      "id": "2df5da45-2fe7-476a-ba63-17553d2d47f9",
+      "slug": "dimsum-mentai-large",
+      "active": true,
+      "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765975831/catalogs/vcl5kbu8ovgrnw04ogh7.webp",
+      "name": "Dimsum Mentai Large",
+      "description": "Paket large berisi 6 pcs dimsum mentai dengan taburan aonori (bubuk rumput laut hijau).",
+      "slotQty": 6,
+      "listProducts": [
+        "e9cce592-0eb5-4ba2-a6b6-933d700f80fb"
+      ],
+      "listAddons": [
+        "2f064c6d-afa5-4c73-a01a-7d5149ffe0d7"
+      ],
+      "price": 26000
     }
   ]
 }

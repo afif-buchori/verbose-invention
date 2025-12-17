@@ -1,13 +1,21 @@
 {
   "active": true,
   "id": "06b329ec-055f-4baf-bf6d-f8b20b3145bb",
-  "slug": "dimsum-k",
-  "name": "Dimsum K",
+  "slug": "dimsum-klasik-large",
+  "name": "Dimsum Klasik Large",
   "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765974971/catalogs/gocw1wgeyevfq4dqmnpi.webp",
-  "description": "",
-  "listProducts": [],
-  "listAddons": [],
-  "slotQty": 0,
-  "price": 0,
-  "createdAt": "2025-12-17T12:36:12.424Z"
+  "description": "Paket regular berisi 6 pcs dimsum pilihan dengan varian yang bisa kamu tentukan sesuai selera.",
+  "listProducts": [
+    "ed078830-c018-40fb-850f-adffe4b7c29b",
+    "95b3a1f1-2135-4eee-9f90-508a950b9c26",
+    "d34d596a-1301-4a22-946b-345c202892b3"
+  ],
+  "listAddons": [
+    "6cc9f1f6-0579-4074-b935-391e1968a272",
+    "2f064c6d-afa5-4c73-a01a-7d5149ffe0d7"
+  ],
+  "slotQty": 6,
+  "price": 20000,
+  "createdAt": "2025-12-17T12:36:12.424Z",
+  "updatedAt": "2025-12-17T12:44:30.295Z"
 }

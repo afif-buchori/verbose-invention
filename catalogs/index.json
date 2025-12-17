@@ -26,7 +26,7 @@
       "active": true,
       "image": "https://res.cloudinary.com/dx7xtz1af/image/upload/v1765974971/catalogs/gocw1wgeyevfq4dqmnpi.webp",
       "name": "Dimsum Klasik Large",
-      "description": "Paket regular berisi 6 pcs dimsum pilihan dengan varian yang bisa kamu tentukan sesuai selera.",
+      "description": "Paket large berisi 6 pcs dimsum pilihan dengan varian yang bisa kamu tentukan sesuai selera.",
       "slotQty": 6,
       "listProducts": [
         "ed078830-c018-40fb-850f-adffe4b7c29b",
@@ -37,7 +37,7 @@
         "6cc9f1f6-0579-4074-b935-391e1968a272",
         "2f064c6d-afa5-4c73-a01a-7d5149ffe0d7"
       ],
-      "price": 20000
+      "price": 10500
     },
     {
       "id": "75796741-b453-48e6-a0dd-6b8af008e38b",

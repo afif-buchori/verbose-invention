@@ -9,9 +9,11 @@
     "e9cce592-0eb5-4ba2-a6b6-933d700f80fb"
   ],
   "listAddons": [
-    "2f064c6d-afa5-4c73-a01a-7d5149ffe0d7"
+    "2f064c6d-afa5-4c73-a01a-7d5149ffe0d7",
+    "6cc9f1f6-0579-4074-b935-391e1968a272"
   ],
   "slotQty": 4,
   "price": 17000,
-  "createdAt": "2025-12-17T12:48:07.049Z"
+  "createdAt": "2025-12-17T12:48:07.049Z",
+  "updatedAt": "2025-12-21T04:13:29.219Z"
 }

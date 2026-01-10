@@ -1,0 +1,32 @@
+{
+  "orderId": "1768029236880",
+  "name": "mas kuff",
+  "phone": "6282211338805",
+  "orderFor": "2026-01-10T07:13:56.365Z",
+  "totalPrice": 17000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Regular",
+      "price": 17000,
+      "total": 19000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 4,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 2000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-01-10T07:13:56.880Z",
+  "status": "paid"
+}

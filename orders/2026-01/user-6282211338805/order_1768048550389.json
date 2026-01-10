@@ -1,0 +1,37 @@
+{
+  "orderId": "1768048550389",
+  "name": "maskuff",
+  "phone": "6282211338805",
+  "orderFor": "2026-01-10T12:35:50.373Z",
+  "totalPrice": 14000,
+  "items": [
+    {
+      "title": "Dimsum Klasik Regular",
+      "price": 13000,
+      "total": 15000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 2,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-01-10T12:35:51.693Z",
+  "status": "waiting"
+}

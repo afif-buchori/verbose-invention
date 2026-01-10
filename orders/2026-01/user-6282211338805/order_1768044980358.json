@@ -1,0 +1,64 @@
+{
+  "orderId": "1768044980358",
+  "name": "mas kuff",
+  "phone": "6282211338805",
+  "notes": "biarkan saya berbicara",
+  "orderFor": "2026-01-10T11:36:20.320Z",
+  "totalPrice": 31000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Regular",
+      "price": 17000,
+      "total": 18000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 4,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 2000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Regular",
+      "price": 13000,
+      "total": 16000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 2,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        },
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": "2 saus"
+    }
+  ],
+  "createdAt": "2026-01-10T11:36:21.609Z",
+  "status": "waiting"
+}

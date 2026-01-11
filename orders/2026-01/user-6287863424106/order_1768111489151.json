@@ -1,0 +1,104 @@
+{
+  "orderId": "1768111489151",
+  "name": "Mb Tut",
+  "phone": "6287863424106",
+  "orderFor": "2026-01-11T06:04:48.427Z",
+  "totalPrice": 57000,
+  "items": [
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 20000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Jamur",
+          "qty": 2,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 20000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Jamur",
+          "qty": 2,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 20000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Jamur",
+          "qty": 2,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-01-11T06:04:49.747Z",
+  "status": "waiting"
+}

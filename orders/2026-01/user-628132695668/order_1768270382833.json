@@ -1,0 +1,33 @@
+{
+  "orderId": "1768270382833",
+  "name": "Fauzi",
+  "phone": "628132695668",
+  "notes": "Pedas Sekali\nSemua pesenan anak Elexart\nSaya yg bayar Ka",
+  "orderFor": "2026-01-13T02:13:02.615Z",
+  "totalPrice": 25000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Large",
+      "price": 25000,
+      "total": 27000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 6,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 2000,
+      "notes": "Pedes Sekali"
+    }
+  ],
+  "createdAt": "2026-01-13T02:13:03.434Z",
+  "status": "waiting"
+}

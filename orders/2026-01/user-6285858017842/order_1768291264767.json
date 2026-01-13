@@ -1,0 +1,37 @@
+{
+  "orderId": "1768291264767",
+  "name": "Yarra ",
+  "phone": "6285858017842",
+  "orderFor": "2026-01-13T08:01:03.314Z",
+  "totalPrice": 13000,
+  "items": [
+    {
+      "title": "Dimsum Klasik Regular",
+      "price": 13000,
+      "total": 14000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 2,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-01-13T08:01:05.566Z",
+  "status": "waiting"
+}

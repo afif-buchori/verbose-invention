@@ -1,0 +1,32 @@
+{
+  "orderId": "1768814669828",
+  "name": "Yarra ",
+  "phone": "6285858017842",
+  "orderFor": "2026-01-19T09:24:28.368Z",
+  "totalPrice": 25000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Large",
+      "price": 25000,
+      "total": 27000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 6,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 2000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-01-19T09:24:31.579Z",
+  "status": "waiting"
+}

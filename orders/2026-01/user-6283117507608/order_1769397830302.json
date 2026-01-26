@@ -1,0 +1,95 @@
+{
+  "orderId": "1769397830302",
+  "name": "Anjani",
+  "phone": "6283117507608",
+  "notes": "Pakmuhh yng mentai sama dimsum reguler di mix yaa",
+  "orderFor": "2026-01-26T03:23:48.764Z",
+  "totalPrice": 48000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Regular",
+      "price": 17000,
+      "total": 18000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 4,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 2000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Regular",
+      "price": 13000,
+      "total": 14000,
+      "variants": [
+        {
+          "name": "Mercon",
+          "qty": 1,
+          "price": 3500
+        },
+        {
+          "name": "Jamur",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Original",
+          "qty": 1,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 20000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Jamur",
+          "qty": 2,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-01-26T03:23:51.029Z",
+  "status": "waiting"
+}

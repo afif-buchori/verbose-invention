@@ -1,0 +1,32 @@
+{
+  "orderId": "1770016394462",
+  "name": "Lita",
+  "phone": "6282393007200",
+  "orderFor": "2026-02-02T07:13:13.181Z",
+  "totalPrice": 24000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Large",
+      "price": 25000,
+      "total": 26000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 6,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 2000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-02-02T07:13:15.831Z",
+  "status": "waiting"
+}

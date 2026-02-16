@@ -1,0 +1,53 @@
+{
+  "orderId": "1771228193270",
+  "name": "Yarra ",
+  "phone": "6285858017842",
+  "orderFor": "2026-02-16T07:49:51.886Z",
+  "totalPrice": 45000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Large",
+      "price": 25000,
+      "total": 27000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 6,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 2000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 21000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 6,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-02-16T07:49:54.688Z",
+  "status": "waiting"
+}

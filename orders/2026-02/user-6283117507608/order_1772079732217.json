@@ -1,0 +1,32 @@
+{
+  "orderId": "1772079732217",
+  "name": "Anjani",
+  "phone": "6283117507608",
+  "orderFor": "2026-02-26T04:22:10.251Z",
+  "totalPrice": 17000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Regular",
+      "price": 17000,
+      "total": 19000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 4,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 2000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-02-26T04:22:13.026Z",
+  "status": "waiting"
+}

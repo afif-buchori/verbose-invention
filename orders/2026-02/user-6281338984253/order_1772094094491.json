@@ -1,0 +1,115 @@
+{
+  "orderId": "1772094094491",
+  "name": "Abrar",
+  "phone": "6281338984253",
+  "orderFor": "2026-02-26T08:21:33.474Z",
+  "totalPrice": 60000,
+  "items": [
+    {
+      "title": "Dimsum Klasik Regular",
+      "price": 13000,
+      "total": 16000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 2,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        },
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 20000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 3,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 3,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Regular",
+      "price": 13000,
+      "total": 14000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 4,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Regular",
+      "price": 13000,
+      "total": 14000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 2,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 2,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-02-26T08:21:35.233Z",
+  "status": "waiting"
+}

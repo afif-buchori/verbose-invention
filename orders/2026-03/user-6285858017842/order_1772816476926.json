@@ -1,0 +1,32 @@
+{
+  "orderId": "1772816476926",
+  "name": "Yarra ",
+  "phone": "6285858017842",
+  "orderFor": "2026-03-06T17:01:15.663Z",
+  "totalPrice": 16000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Regular",
+      "price": 17000,
+      "total": 18000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 4,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 2000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-03-06T17:01:17.789Z",
+  "status": "waiting"
+}

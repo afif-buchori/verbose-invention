@@ -1,0 +1,96 @@
+{
+  "orderId": "1774927559761",
+  "name": "Abrar",
+  "phone": "6281330984253",
+  "notes": "",
+  "orderFor": "2026-03-31T03:25:58.238Z",
+  "totalPrice": 79000,
+  "items": [
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 21000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 6,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 21000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 6,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 20000,
+      "variants": [
+        {
+          "name": "Mercon",
+          "qty": 6,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 21000,
+      "variants": [
+        {
+          "name": "Mercon",
+          "qty": 6,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 2,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-03-31T03:26:00.466Z",
+  "status": "waiting"
+}

@@ -1,0 +1,111 @@
+{
+  "orderId": "1785141515599",
+  "name": "Abrar",
+  "phone": "6281330984253",
+  "notes": "SAOSNYA JANGAN SAMPAI SALAH YA ",
+  "orderFor": "2026-07-27T08:38:34.407Z",
+  "totalPrice": 83000,
+  "items": [
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 23000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 6,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 2,
+          "price": 2000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 21000,
+      "variants": [
+        {
+          "name": "Mercon",
+          "qty": 6,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 2,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 21000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 3,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 3,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 2,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 22000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 3,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 3,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        },
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-07-27T08:38:37.107Z",
+  "status": "waiting"
+}

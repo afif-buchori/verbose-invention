@@ -1,0 +1,38 @@
+{
+  "orderId": "1790744520620",
+  "name": "Yarra",
+  "phone": "6285858017842",
+  "notes": "",
+  "orderFor": "2026-09-30T05:01:59.081Z",
+  "totalPrice": 20000,
+  "items": [
+    {
+      "title": "Dimsum Klasik Large",
+      "price": 19000,
+      "total": 21000,
+      "variants": [
+        {
+          "name": "Original",
+          "qty": 3,
+          "price": 3500
+        },
+        {
+          "name": "Mercon",
+          "qty": 3,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-09-30T05:02:05.448Z",
+  "status": "waiting"
+}

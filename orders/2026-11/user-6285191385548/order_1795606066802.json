@@ -1,0 +1,32 @@
+{
+  "orderId": "1795606066802",
+  "name": "Yais",
+  "phone": "6285191385548",
+  "orderFor": "2026-11-25T11:27:45.635Z",
+  "totalPrice": 26000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Large",
+      "price": 26000,
+      "total": 28000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 6,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 2000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-11-25T11:27:47.641Z",
+  "status": "waiting"
+}

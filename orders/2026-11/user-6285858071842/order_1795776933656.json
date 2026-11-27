@@ -1,0 +1,54 @@
+{
+  "orderId": "1795776933656",
+  "name": "Yarra",
+  "phone": "6285858071842",
+  "notes": "",
+  "orderFor": "2026-11-27T10:55:32.544Z",
+  "totalPrice": 40000,
+  "items": [
+    {
+      "title": "Dimsum Mentai Large",
+      "price": 26000,
+      "total": 28000,
+      "variants": [
+        {
+          "name": "Mentai",
+          "qty": 6,
+          "price": 4500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Chili Oil",
+          "qty": 1,
+          "price": 2000
+        }
+      ],
+      "discount": 2000,
+      "notes": ""
+    },
+    {
+      "title": "Dimsum Klasik Regular",
+      "price": 14000,
+      "total": 15000,
+      "variants": [
+        {
+          "name": "Mercon",
+          "qty": 4,
+          "price": 3500
+        }
+      ],
+      "addons": [
+        {
+          "name": "Saus Sambal Bangkok",
+          "qty": 1,
+          "price": 1000
+        }
+      ],
+      "discount": 1000,
+      "notes": ""
+    }
+  ],
+  "createdAt": "2026-11-27T10:55:35.273Z",
+  "status": "waiting"
+}
